@@ -1,0 +1,48 @@
+Travel Guide - Group Project
+
+This application is a platform for world travellers, that is dedicated to sharing their travel experiences and fun photos! 
+
+Login/Register Page:
+User registration requires all fields to be filled:
+Name: Minimum of 2 characters.
+Email: Valid and unique.
+Password: Minimum of 8 characters, with confirmation to match.
+Login requires a valid email and password.
+User cannot access the site unless logged in.
+
+Travel Guide Posts Page:
+Displays posts (most recent first).
+Users can search posts by keywords or country.
+For each post, users can:
+Like/unlike posts.
+Edit their own posts.
+Delete their own posts.
+
+Create a Destination Page:
+Form fields include:
+Title
+Description
+Tags
+Image upload
+Buttons: Submit and Clear.
+Stretch Goals:
+Add a search filter using keywords.
+Show likes count for posts.
+Use a Countries API to display flags.
+
+Post Details Page:
+Shows:
+Title, Description, and user who created the post.
+Users can write comments.
+Logout functionality that clears the session and redirects to login.
+
+Update a Destination Page:
+Form for editing a destination includes:
+Title
+Description
+Tags
+Image upload
+Buttons: Update and Clear.
+
+Logout:
+Clears the session and redirects to login.
