@@ -50,6 +50,6 @@ Logs out the user, clearing the session and redirecting to the login page.
 - Display the number of likes on posts.
 - Integrate with a Countries API to display flags.
 
-Setup:
+### Setup:
 
-- Run npm i && npm start for both client and server side to start the app
+- Run npm i && npm start for both client and server side to start the app.
