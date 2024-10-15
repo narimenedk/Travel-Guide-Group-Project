@@ -49,3 +49,7 @@ Logs out the user, clearing the session and redirecting to the login page.
 - Implement search filters by keywords.
 - Display the number of likes on posts.
 - Integrate with a Countries API to display flags.
+
+Setup:
+
+- Run npm i && npm start for both client and server side to start the app
